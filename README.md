@@ -127,7 +127,8 @@ terraform-jenkins-project/
 │   ├── Grafana
 │   └── Kubernetes Monitoring
 │
-└── Screenshots
+├── Architecture/
+└── Screenshots/
 ```
 
 ---
@@ -196,7 +197,7 @@ After completing these projects, I gained practical experience in:
 
 # Author
 
-**Manoj Kumar**
+**Manoj Kumar Nagamulla**
 
 DevOps Engineer
 
